@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">attendence</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="brach_cse">Brach - CSE</string>
+    <string name="mr_sharma">Mr. Sharma</string>
+    <string name="faculty_mr_sharma">Faculty - Mr. Sharma</string>
+    <string name="classname">ClassName</string>
+    <string name="branch">Branch</string>
+    <string name="faculty">Faculty</string>
+
+    <string name="hello_msg_from_activity">Hello From Activity!</string>
+    <string name="hello_msg_from_fragment">Hello From Fragment!</string>
+    <string name="subjectname">Subject Name</string>
+</resources>
